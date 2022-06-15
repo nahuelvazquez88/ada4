@@ -1,0 +1,12 @@
+.flex-container {
+  display: flex;
+  background-color: blanchedalmond;
+  height: 100px;
+  align-items: flex-end;
+}
+
+.flex-container div {
+  background-color: cadetblue;
+  margin: 5px;
+  width: 40px;
+}
